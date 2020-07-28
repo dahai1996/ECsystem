@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="ItemCF_Recommender" />
+        <module name="Lixian_Recommender" />
+        <module name="businessServer" />
+        <module name="Shishi_Recommender" />
+        <module name="Neirong_Recommender" />
+        <module name="Remen_Recommender" />
+        <module name="dataLoader" />
+        <module name="Kafka_Streaming" />
+      </profile>
+    </annotationProcessing>
+  </component>
+</project>

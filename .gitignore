@@ -1,0 +1,7 @@
+# Project exclude paths
+/businessServer/target/
+/recommender/dataLoader/target/
+/recommender/ItemCF_Recommender/target/
+/recommender/Lixian_Recommender/target/
+/recommender/Neirong_Recommender/target/
+/recommender/Remen_Recommender/target/
